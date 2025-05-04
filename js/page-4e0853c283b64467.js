@@ -911,7 +911,7 @@
                     f(e => [...e, {
                         type: "link",
                         content: "Twitter",
-                        url: "https://x.com/PScat_on_sol"
+                        url: "https://x.com/CommandZilla"
                     }]);
                     break;
                 case "meme":
