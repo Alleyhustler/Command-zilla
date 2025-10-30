@@ -1141,7 +1141,7 @@
                         children: [(0,
                         s.jsx)(k, {
                             className: "text-2xl",
-                            children: "Introduce Command Zlla"
+                            children: "Introduce ZillaTron"
                         }), (0,
                         s.jsx)(C, {
                             className: "text-gray-300",
