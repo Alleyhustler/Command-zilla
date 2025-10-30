@@ -911,7 +911,7 @@
                     f(e => [...e, {
                         type: "link",
                         content: "Twitter",
-                        url: "https://x.com/CommandZilla"
+                        url: "https://x.com/ZILLATRONcoin"
                     }]);
                     break;
                 case "meme":
@@ -1058,7 +1058,7 @@
                     children: [(0,
                     s.jsxs)("div", {
                         className: "mb-4",
-                        children: ["Command Zilla Copyright (C) Gods Corporation. All rights reserved.", (0,
+                        children: ["ZILLATRON Copyright (C) Gods Corporation. All rights reserved.", (0,
                         s.jsx)("span", {
                             className: "font-bold underline block mt-2",
                             children: "Type 'help' to see available commands."
@@ -1274,7 +1274,7 @@
                     children: [(0,
                     s.jsx)("span", {
                         className: "font-semibold",
-                        children: "Command Zilla"
+                        children: "ZILLATRON"
                     }), (0,
                     s.jsxs)("div", {
                         className: "flex space-x-2",
